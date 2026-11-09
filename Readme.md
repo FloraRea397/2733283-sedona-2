@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Екатерина Рубцова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2733283).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Лесухин](https://htmlacademy.ru/profile/caneklis).
 
 ---
 
