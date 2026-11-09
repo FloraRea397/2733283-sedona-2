@@ -2,7 +2,7 @@
 
 * Студент: [Екатерина Рубцова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2733283).
 * Наставник: [Александр Лесухин](https://htmlacademy.ru/profile/caneklis).
-* Сайт: [Мой проект Седона] (https://florarea397.github.io/2733283-sedona-2/)
+* Сайт: [Мой проект Седона](https://florarea397.github.io/2733283-sedona-2/)
 
 ---
 
